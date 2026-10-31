@@ -28,8 +28,6 @@ Welcome to my GitHub repository! I'm a Computer Science Engineering student pass
 | Web Development | HTML, CSS, JavaScript, React |
 | Tools | Git, GitHub, Jupyter Notebook |
 
-## 📂 Featured Projects
-
 ## 🚀 Featured Projects
 
 ### 1. Credit Card Fraud Detection using Machine Learning
