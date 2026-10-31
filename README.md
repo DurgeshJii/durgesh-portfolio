@@ -30,24 +30,35 @@ Welcome to my GitHub repository! I'm a Computer Science Engineering student pass
 
 ## 📂 Featured Projects
 
-### 1. Credit Card Fraud Detection
-- Analyzed 100,000+ transactions.
-- Handled imbalanced data using SMOTE.
-- Built Logistic Regression and Random Forest models.
+## 🚀 Featured Projects
+
+### 1. Credit Card Fraud Detection using Machine Learning
+- Developed a machine learning model to identify fraudulent credit card transactions.
+- Worked with an imbalanced dataset containing 100,000+ transactions.
+- Applied SMOTE to handle class imbalance.
+- Implemented Logistic Regression and Random Forest.
 - Evaluated model performance using classification metrics.
+- **Technologies:** Python, Pandas, NumPy, Scikit-learn, Imbalanced-learn
+- **GitHub:** [View Project](https://github.com/DurgeshJii/-Credit-Card-Fraud-Detection-using-Machine-Learning)
 
-### 2. Heart Attack Prediction
-- Developed a machine learning project to predict heart attack risk.
-- Applied data preprocessing and model evaluation techniques.
+### 2. Heart Disease Prediction using Machine Learning
+- Developed a machine learning project to predict the likelihood of heart disease.
+- Performed data preprocessing and model evaluation.
+- **Technologies:** Python, Pandas, NumPy, Scikit-learn
+- **GitHub:** [View Project](https://github.com/DurgeshJii/Heart-Disease-Prediction-Using-Machine-Learning-)
 
-### 3. American Express Stock Prediction
-- Analyzed historical stock market data.
-- Built a Random Forest Regression model.
-- Evaluated performance using MAE, MSE, and R².
+### 3. American Express (AmEx) Stock Price Prediction
+- Built a machine learning regression model to predict stock prices using historical data.
+- Applied feature engineering using date-related features.
+- Evaluated model performance using MAE, MSE, and R².
+- **Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
+- **GitHub:** [View Project](https://github.com/DurgeshJii/-AmEx-Stock-Price-Prediction-using-Machine-Learning)
 
-### 4. E-commerce Sales Dashboard
-- Analyzed sales data to identify business insights.
-- Used data visualization to present important performance indicators.
+### 4. Blinkit Sales Analytics Dashboard
+- Analyzed Blinkit sales data to identify business insights and sales trends.
+- Created an interactive dashboard using Power BI.
+- **Technologies:** Power BI, Data Analytics, Data Visualization
+- **GitHub:** [View Project](https://github.com/DurgeshJii/Blinkit-Sales-Analytics-PowerBI)
 
 ## 💼 Experience
 
