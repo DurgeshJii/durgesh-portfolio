@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://durgesh-portfolio-two.vercel.app/sitemap.xml
