@@ -106,11 +106,11 @@ function App() {
           <h2 className="section-title">Curiosity meets data.</h2>
 
           <p className="section-text">
-            I'm a Computer Science student pursuing my B.Tech at CCS
-            University. I'm passionate about data analytics, machine learning,
-            and building solutions to real-world problems. I enjoy exploring
-            datasets, identifying patterns, and turning analytical findings
-            into useful insights.
+             I'm a Computer Science undergraduate pursuing my B.Tech at CCS
+              University (2023–2027). I have practical experience in Data Analytics
+              and Data Science through internships and projects. I'm passionate
+              about Python, SQL, Power BI, Machine Learning, and transforming
+              complex data into meaningful business insights.
           </p>
         </section>
 
@@ -199,7 +199,7 @@ function App() {
 
             <article className="project">
               <span className="project-no">PROJECT 04</span>
-              <h3>E-commerce Sales Dashboard</h3>
+              <h3>Blinkit Sales Analytics Dashboard"</h3>
               <p>
                 Sales analysis and business performance visualization using
                 KPIs and interactive dashboards.
@@ -220,38 +220,60 @@ function App() {
           <p className="tag">04 — EXPERIENCE</p>
           <h2 className="section-title">My professional journey.</h2>
 
-          <div className="experience">
-            <span>Jun 2026 — Sep 2026</span>
-            <h3>Data Science Intern — IStudio Technologies</h3>
-            <p>
-              Worked On Ml model building testing and train ml model to predict 
-              future output.
-            </p>
-          </div>
-          <div className="experience">
-            <span>Aug 2026 — Sep 2026</span>
-            <h3>Data Analyst Internship — InAmigos Foundation</h3>
-            <p>
-              Worked on sales data analysis, SQL, exploratory data analysis,
-              and Power BI dashboards.
-            </p>
-          </div>
-          <div className="experience">
-            <span>Sep 2025 — Oct 2025</span>
-            <h3>Data Analyst — CodeAlpha</h3>
-            <p>
-              Worked on sales data analysis, SQL, exploratory data analysis,
-              and Power BI dashboards.
-            </p>
-          </div>
+          <div className="experience-timeline">
 
-          <div className="experience">
-            <span> Feb 2025 — Aug 2025</span>
-            <h3>Data Analyst Intern — IStudio Technologies</h3>
-            <p>
-              Gained practical experience in data cleaning, analysis,
-              visualization, and analytical workflows.
-            </p>
+            <div className="timeline-item">
+              <div className="timeline-dot"></div>
+              <div className="timeline-content">
+                <span>Aug 2026 — Sep 2026</span>
+                <h3>Data Analyst Intern</h3>
+                <h4>InAmigos Foundation</h4>
+                <p>
+                  Conducted NGO research, prepared AI-driven data analysis reports,
+                  and explored volunteer opportunities to support social impact initiatives.
+                </p>
+              </div>
+            </div>
+
+            <div className="timeline-item">
+              <div className="timeline-dot"></div>
+              <div className="timeline-content">
+                <span>Jun 2026 — Sep 2026</span>
+                <h3>Data Science Intern</h3>
+                <h4>iStudio Technologies</h4>
+                <p>
+                  Worked on machine learning model development, training, testing,
+                  and evaluating predictive models.
+                </p>
+              </div>
+            </div>
+
+            <div className="timeline-item">
+              <div className="timeline-dot"></div>
+              <div className="timeline-content">
+                <span>Sep 2025 — Oct 2025</span>
+                <h3>Data Analyst</h3>
+                <h4>CodeAlpha</h4>
+                <p>
+                  Analyzed sales data using Excel and SQL, performed exploratory
+                  data analysis with Python, and developed Power BI dashboards.
+                </p>
+              </div>
+            </div>
+
+            <div className="timeline-item">
+              <div className="timeline-dot"></div>
+              <div className="timeline-content">
+                <span>Feb 2025 — Aug 2025</span>
+                <h3>Data Analyst Intern</h3>
+                <h4>iStudio Technologies</h4>
+                <p>
+                  Gained practical experience in data cleaning, data manipulation,
+                  exploratory analysis, and data visualization.
+                </p>
+              </div>
+            </div>
+
           </div>
         </section>
 
