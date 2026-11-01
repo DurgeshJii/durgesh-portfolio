@@ -73,30 +73,17 @@ function App() {
             </div>
           </div>
 
-          <div className="hero-card">
-            <div className="circle">DY</div>
-            <p className="card-label">MY CAREER FOCUS</p>
-            <h3>Turning Data Into Decisions.</h3>
+          <div className="hero-photo-wrap">
+            <div className="hero-photo-glow"></div>
 
-            <div className="chart">
-              {[40, 65, 48, 80, 58, 95, 70, 100].map((height, index) => (
-                <div
-                  key={index}
-                  className="bar"
-                  style={{ height: `${height}%` }}
-                />
-              ))}
-            </div>
+            <img
+              src="profile.png.png"
+              alt="Durgesh Kumar Yadav - Data Analyst"
+              className="hero-photo"
+            />
 
-            <div className="tech-list">
-              <span>Python</span>
-              <span>SQL</span>
-              <span>Power BI</span>
-              <span>ML</span>
-              <span>GEN AI</span>
-              <span>Cloud</span>
-              <span>Agentic AI</span>
-              <span>MLOps</span>
+            <div className="photo-caption">
+              <span>✳</span> DATA ANALYST & ML ENTHUSIAST
             </div>
           </div>
         </section>
@@ -217,65 +204,65 @@ function App() {
         </section>
 
         <section className="section container" id="experience">
-          <p className="tag">04 — EXPERIENCE</p>
-          <h2 className="section-title">My professional journey.</h2>
+            <p className="tag">04 — EXPERIENCE</p>
+            <h2 className="section-title">My professional journey.</h2>
 
-          <div className="experience-timeline">
+            <div className="experience-timeline">
 
-            <div className="timeline-item">
-              <div className="timeline-dot"></div>
-              <div className="timeline-content">
-                <span>Aug 2026 — Sep 2026</span>
-                <h3>Data Analyst Intern</h3>
-                <h4>InAmigos Foundation</h4>
-                <p>
-                  Conducted NGO research, prepared AI-driven data analysis reports,
-                  and explored volunteer opportunities to support social impact initiatives.
-                </p>
+              <div className="timeline-item">
+                <div className="timeline-dot"></div>
+                <div className="timeline-content">
+                  <span>Aug 2026 — Sep 2026</span>
+                  <h3>Data Analyst Intern</h3>
+                  <h4>InAmigos Foundation</h4>
+                  <p>
+                    Conducted NGO research, prepared AI-driven data analysis reports,
+                    and explored volunteer opportunities to support social impact initiatives.
+                  </p>
+                </div>
               </div>
-            </div>
 
-            <div className="timeline-item">
-              <div className="timeline-dot"></div>
-              <div className="timeline-content">
-                <span>Jun 2026 — Sep 2026</span>
-                <h3>Data Science Intern</h3>
-                <h4>iStudio Technologies</h4>
-                <p>
-                  Worked on machine learning model development, training, testing,
-                  and evaluating predictive models.
-                </p>
+              <div className="timeline-item">
+                <div className="timeline-dot"></div>
+                <div className="timeline-content">
+                  <span>Jun 2026 — Sep 2026</span>
+                  <h3>Data Science Intern</h3>
+                  <h4>iStudio Technologies</h4>
+                  <p>
+                    Worked on machine learning model development, training, testing,
+                    and evaluating predictive models.
+                  </p>
+                </div>
               </div>
-            </div>
 
-            <div className="timeline-item">
-              <div className="timeline-dot"></div>
-              <div className="timeline-content">
-                <span>Sep 2025 — Oct 2025</span>
-                <h3>Data Analyst</h3>
-                <h4>CodeAlpha</h4>
-                <p>
-                  Analyzed sales data using Excel and SQL, performed exploratory
-                  data analysis with Python, and developed Power BI dashboards.
-                </p>
+              <div className="timeline-item">
+                <div className="timeline-dot"></div>
+                <div className="timeline-content">
+                  <span>Sep 2025 — Oct 2025</span>
+                  <h3>Data Analyst</h3>
+                  <h4>CodeAlpha</h4>
+                  <p>
+                    Analyzed sales data using Excel and SQL, performed exploratory
+                    data analysis with Python, and developed Power BI dashboards.
+                  </p>
+                </div>
               </div>
-            </div>
 
-            <div className="timeline-item">
-              <div className="timeline-dot"></div>
-              <div className="timeline-content">
-                <span>Feb 2025 — Aug 2025</span>
-                <h3>Data Analyst Intern</h3>
-                <h4>iStudio Technologies</h4>
-                <p>
-                  Gained practical experience in data cleaning, data manipulation,
-                  exploratory analysis, and data visualization.
-                </p>
+              <div className="timeline-item">
+                <div className="timeline-dot"></div>
+                <div className="timeline-content">
+                  <span>Feb 2025 — Aug 2025</span>
+                  <h3>Data Analyst Intern</h3>
+                  <h4>iStudio Technologies</h4>
+                  <p>
+                    Gained practical experience in data cleaning, data manipulation,
+                    exploratory analysis, and data visualization.
+                  </p>
+                </div>
               </div>
-            </div>
 
-          </div>
-        </section>
+            </div>
+          </section>
 
         <section className="contact-section" id="contact">
           <div className="container">
