@@ -77,7 +77,7 @@ function App() {
             <div className="hero-photo-glow"></div>
 
             <img
-              src="profile.png.png"
+              src="/profile.webp"
               alt="Durgesh Kumar Yadav - Data Analyst"
               className="hero-photo"
             />
